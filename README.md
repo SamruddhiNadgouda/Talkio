@@ -43,7 +43,7 @@ Built using a modern full-stack approach, it ensures low-latency messaging and s
 ## 📁 File Structure
 
 ```
-Nexus/
+Talkio/
 │
 ├── frontend/            # React frontend
 ├── backend/             # Node.js + Express backend
@@ -68,8 +68,8 @@ Nexus/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SamruddhiNadgouda/Nexus.git
-   cd Nexus
+   git clone https://github.com/SamruddhiNadgouda/Talkio.git
+   cd Talkio
    ```
    
 2. **Install dependencies**
