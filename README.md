@@ -46,12 +46,15 @@ Built using a modern full-stack approach, it ensures low-latency messaging and s
 Talkio/
 │
 ├── frontend/            # React frontend
+   ├── public/         
+   ├── src/      
 ├── backend/             # Node.js + Express backend
-├── public/              # Static assets
-├── controllers/         # Business logic
-├── models/              # Database schemas
-├── routes/              # API routes
-├── socket/              # Socket.IO configuration
+   ├── config/ 
+   ├── controllers/      # Business logic
+   ├── models/           # Database schemas
+   ├── routes/           # API routes
+   ├── socket/           # Socket.IO configuration
+   ├── middleware/       # Socket.IO configuration
 ├── package.json         # Dependencies
 └── README.md            # Documentation
 ```
